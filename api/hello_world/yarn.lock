@@ -475,6 +475,11 @@ require-directory@^2.1.1:
   resolved "https://registry.yarnpkg.com/require-directory/-/require-directory-2.1.1.tgz#8c64ad5fd30dab1c976e2344ffe7f792a6a6df42"
   integrity sha1-jGStX9MNqxyXbiNE/+f3kqam30I=
 
+run-func@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/run-func/-/run-func-1.0.5.tgz#f441a6dfcaccb2d53f9bdb9b747428dc45d1305b"
+  integrity sha512-v+Iopip1KE00OFRwIpLdLUsMXHDErktYAMYevTvCCwTBQWF+7z+vy886FUrOOBIwyX5OJC6tLdRKyzYHOfHQug==
+
 safe-buffer@^5.1.0:
   version "5.2.1"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.2.1.tgz#1eaf9fa9bdb1fdd4ec75f58f9cdb4e6b7827eec6"

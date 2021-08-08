@@ -9,9 +9,11 @@
     "axios": "^0.21.1"
   },
   "scripts": {
+    "start": "run-func app.js lambdaHandler"
   },
   "devDependencies": {
     "chai": "^4.3.4",
-    "mocha": "^9.0.3"
+    "mocha": "^9.0.3",
+    "run-func": "^1.0.5"
   }
 }
